@@ -8,3 +8,9 @@ BloodBank is a database system website to be used internally by a hypothetical c
 3. Run the command python3 run.py and open the link in the browser
 
 ## Demonstration
+![](v1.gif)
+![](v2.gif)
+![](v3.gif)
+![](v4.gif)
+![](v5.gif)
+![](v6.gif)
